@@ -18,9 +18,5 @@ This project implements a Monte Carlo simulation of thermal neutron transport th
 Simulations were performed for different shielding materials (e.g. water, lead, graphite), analysing transmission, absorption, and reflection fractions as a function of slab thickness. Attenuation lengths were estimated via exponential fitting.
 
 ## Tech stack
-Python, NumPy, Matplotlib
+Python, NumPy, Matplotlib, Plotly
 
-## How to run
-```bash
-pip install -r requirements.txt
-jupyter notebook notebooks/MonteCarloProject.ipynb
